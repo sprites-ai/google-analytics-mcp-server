@@ -6,7 +6,7 @@
   "version": "1.0.0",
   "websiteUrl": "https://www.sprites.ai/mcp/google-analytics",
   "repository": {
-    "url": "https://github.com/sprites-ai/google-analytics-mcp-server",
+    "url": "https://github.com/sprites-mcp/google-analytics-mcp-server",
     "source": "github"
   },
   "icons": [
